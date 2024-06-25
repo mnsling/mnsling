@@ -4,10 +4,9 @@ My name is Mike Nicklaus Ling, and I am a frontend developer based in Davao City
 
 Beyond coding, I have a strong artistic background in graphic design, portrait sketches, and photography. Initially, my interest was not focused on coding; however, I discovered a passion for frontend development due to its creative elements, particularly in website design and UI/UX design.
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingnicklaus/)
-
-
 # ​🇱​​🇪​​🇹​​🇸​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​!
 
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nicklaus.ling/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingnicklaus/)
+
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingnicklaus/)

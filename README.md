@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪!
 
-<!--
-**mnsling/mnsling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+names Mike, a Frontend Developer from Davao City, Philippines.
 
-Here are some ideas to get you started:
+I am currently a 3rd Year Student studying Computer Science in Ateneo de Davao University. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I don't have any work experience and such, but I am hoping that one day I can contribute to companies that offer such services.
+
+Outside of school and work, I enjoy exploring and learning various forms of art, including graphic design, portrait sketches, photography, and videography.
+
+# ​🇱​​🇪​​🇹​​🇸​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​!
+
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nicklaus.ling/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingnicklaus/)
+

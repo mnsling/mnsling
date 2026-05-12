@@ -1,8 +1,8 @@
 <h3>HI THERE!</h3>
 
-My name is Mike Nicklaus Ling, and I am a frontend developer based in Davao City, Philippines. Currently, I am pursuing a Bachelor of Science degree majoring in Computer Science at Ateneo de Davao University, where I am in my third year of studies.
+My name is Mike Nicklaus Ling, a fresh graduate fullstack developer and UI/UX designer based in Davao City, Philippines. I recently completed my Bachelor of Science in Computer Science degree at Ateneo de Davao University.
 
-Beyond coding, I have a strong artistic background in graphic design, portrait sketches, and photography. Initially, my interest was not focused on coding; however, I discovered a passion for frontend development due to its creative elements, particularly in website design and UI/UX design.
+I specialize in building modern, responsive web applications using a fullstack approach, with a strong focus on UI/UX design and frontend development. I also have a creative background in graphic design, portrait sketching, and photography, which influences my design style and attention to detail.
 
 <h3>LET'S CONNECT!</h3>
 

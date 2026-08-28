@@ -8,3 +8,4 @@ I specialize in building modern, responsive web applications using a fullstack a
 
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nicklaus.ling/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingnicklaus/)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolioling-ashen.vercel.app/)
